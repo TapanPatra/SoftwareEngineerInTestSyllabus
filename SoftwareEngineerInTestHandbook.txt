@@ -1,0 +1,812 @@
+*************************************************************************************************
+| Testing | Coding | Automation in Test | Security Testing | DevOps | AI
+*************************************************************************************************
+    Exploratory Testing
+        Software Testing
+        Rapid software Testing
+        Pair testing
+        Agile Testing
+        Exploratory Testing
+    Software Delivery | Project Management | Business Professional
+        Business Analyst
+        Scrum Framework
+        PMP
+    DevOps | Continuous Delivery Testing | CI/CD
+        Learn a Language
+            Python
+        Networking Protocols
+            DNS, OSI Model, HTTP, HTTPS, FTP, SSL, TLS, White grey listing, SSH, Port forwarding
+            SMTP, Emails[DMARC, SPF, Domain keys], IMAPS, POP3S
+        Operating System
+            OS concepts
+                POSIX Basics, Processes, Process Management, 
+                Threads and concurrency, Sockets, IO management
+                Virtualization, Memory and storage, File Systems, 
+                Startup management initd, Service management systemd
+            OS
+                Windows
+                Linux
+        Terminal
+            Bash   
+            Vim/Nano/PowerShell/Emacs
+            Compiling apps from source: (gcc, make and other related stuff)
+            Text Manipulation Tools : awk,sed,grep,sort,uniq,cat,cut,echo,fmt,tr,nl,wc,egrep,fgrep
+            Others: strace,dtrace,systemtap,uname,df,history,du
+            Network Tools: traceroute,mtr,ping,airmon,tcpdump,netstat,dig,scp,airodump,iptables,nmap
+            System Performance: Nmon, iostat,sar,vmstat
+            Process Monitoring: ps,top,htop,atop,lsof
+            terminal multiplexers: screen, tmux
+        Cloud Providers
+            AWS
+                Introduction to Cloud Computing & AWS
+                Elastic Compute and Storage Volumes 
+                Load Balancing, Autoscaling and DNS 
+                Virtual Private Cloud
+                Storage – Simple Storage Service (S)
+                Databases and In-Memory DataStores
+                Management and Application Services
+                Access Management and Monitoring Services
+                Automation and Configuration management
+                AWS Migration
+                Continuous Monitoring using Prometheus
+                Prometheus Security and Use Cases
+                Continuous Monitoring using Nagios
+                Log Server and alerting in Nagios
+                Software Lifecycle automation using AWS
+                Automating Infrastructure using CloudFormation
+                Application Deployment using Elastic Beanstalk
+                Application Deployment and Orchestration using ECS, 
+                ECR and EKS
+            Azure
+                Introduction to Microsoft Azure
+                Introduction to ARM & Azure Storage
+                Introduction to Azure storage
+                Azure Virtual Machines
+                Azure App and Container services
+                Azure Networking I
+                Azure Networking II
+                Authentication and Authorization in Azure using RBAC
+                Microsoft Azure Active Directory
+                Azure Monitoring
+                Infrastructure Setup
+                Introduction to DevOps
+                Continuous Testing
+                Continuous Integration using Jenkins
+                Software Version Control
+                Continuous Deployment: Containerization with Docker
+                Containerization with Docker: Ecosystem and Networking
+                Configuration Management using Puppet
+                Configuration Management using Ansible
+                Continuous Orchestration using Kubernetes
+                Continuous Monitoring using Nagios
+                Terraform Modules & Workspaces
+                Azure DevOps and Azure Repos
+                Azure Artifacts and Azure Test Plans
+                Azure Pipelines
+                Azure Boards
+                Terraform with Azure
+        DevOps
+            DevOps Fundamentals & Infrastructure Setup
+            Version control
+                GIT
+            YAML
+            Infrastructure as Code
+                Configuration Management
+                    Ansible
+                    Chef
+                    Puppet
+                Service Mesh
+                    Consul
+                    Istio
+                    Linkerd
+                    Envoy
+                Containers
+                    Docker
+                    LXC
+                Container Orchestration
+                    Docker Swarm
+                    Kubernetes
+                    Mesos
+                    Nomad 
+                Infrastructure Provisioning
+                    Terraform
+                    AWS CDK
+                    Pulumi
+                    CloudFormation
+            CI/CD Continuous Integration orchestra-tors 
+                Continuous Testing using Selenium
+                Jenkins
+                Gitlab CI
+                Travis CI
+                GitHub Actions
+                TeamCity
+                Bamboo
+                Circle CI
+                Drone
+                Azure DevOps Services
+        Data Virtualization
+            What is Virtualization?
+            Virtualization is not a new concept. Evolution of Virtualization.
+            Type of Virtualization
+            Server-based Virtualization
+            Hypervisor-based Virtualization
+            Type 1 v/s Type 2
+            Full v/s Para
+            Virtual machine lifecycle
+            Virtual machine image: Structure, format
+            Virtual machine instance: Public cloud specific instance, allocating resources to
+            Virtual machine instance, networking in virtual machine, Amazon 
+            Machine Instance
+            VM Application
+            Container Based Virtualization
+            Container lifecycle
+            Container image : Structure, formats
+            Container instance: Allocating resources to container instance
+            Networking in containers
+            Unikernels: Structure, formats, allocation, networking in Unikernels
+            Difference between VM, Containers and Unikernels
+            Network Function Virtualization (NFV)
+        DevSecOps
+            Securing SDLC and CI/CD Pipeline
+            Software Component Analysis (SCA) in CI/CD Pipeline
+            Static Analysis (SAST) in CI/CD Pipeline
+            Dynamic Analysis (DAST) in CI/CD Pipeline
+            Infrastructure as Code and it’s security
+            Compliance as Code
+            Vulnerability Managemen
+        IDE
+            VS Code
+        Package managers
+            Maven or Gradle (for Java)
+            NPM for C#
+            PIP for Python
+        How to set up
+            Web server
+                NginX
+                Tomcat
+                Apache
+                IIS
+                Caddy
+                NginX
+            Caching Server
+            Load balancer
+            Reverse Proxy
+            Firewall
+            Forward Proxy
+        Monitoring
+            Infrastructure Monitoring
+                Nagios
+                Grafana
+                Datadog
+                Zabbix
+                Monit
+                Prometheus
+            Application Monitoring
+                Jaeger
+                New Relic
+                AppDynamics
+                Instana
+                OpenTelemetry
+            Logs management
+                Elastic Stack
+                Graylog
+                Splunk
+                Papertrail
+        Cloud Design Patterns
+            Availability
+            Data Management
+            Design and implementation
+            Management and monitoring 
+    Learn to code
+        HTML & CSS 
+        JavaScript
+            JavaScript
+            React & Redux
+            Angular
+            NodeJs
+            TypeScript
+        Java
+            Java
+            Spring
+        Python
+            Python
+            Djnago
+        C#  
+    Software Development Basics | Computer Science 
+        Computer science
+            HTTP
+            REST
+            Internet Routing
+            Tokens and Cookies
+            Encoding and Encryption
+        Programming & Clean Code
+        Command-Line Basics
+        Design Patterns
+            Object-Oriented Programming
+            SOLID Design Principle  
+            MVC Pattern
+        Data Structure and Algorithm
+        General Systems
+            Modeling
+            Non-linearity
+            Complexity 
+            Statics and Dynamics
+        Mathematics
+            Binary Arithmetic
+            Probability
+            Statistics
+            Set theory
+    Automation Tools and Languages
+        Test Automation 
+        Programming for Automation 
+            C# 
+            Python
+            JavaScript
+            Java
+        Development Ecosystem 
+            Data Structures & Algorithm
+            Clean Code
+            Application Programming Interface (API)
+            Design Patterns
+            Version Control Management (Git) & Repositories
+            Build Management Tools (Maven / Gradle / Ivy…)
+            Package Managers (NPM / Composor / Nuget / Pip / Gems…)
+        Unit Test 
+            Java
+                JUnit
+                TestNG
+            C#
+                Nunit
+                MsTest
+                xUnit Test Patterns: Refactoring Test Code
+            Python
+                pytest
+                unitest
+            Java-script
+                Jasmine
+                Jest
+                Mocha
+        Mocking libraries
+            Java: Mockito, JMockIt
+            C# : Moq
+            Python:  unittest.mock, pytest-mock
+            JavaScript:  Sinon.js
+        Service virtualization
+            WireMock
+            Hoverfly.
+        Services Tests
+            Java
+                REST Assured
+            C# 
+                RESTSharp
+                Flurl
+            Python
+                requests
+            Javascript
+                Chakaram
+                Frisby
+                Supertest
+        UI Tests
+            Selenium Web driver (Java, C#, Python, Ruby, JavaScript)
+            Cypress
+            Puppteer
+            TestStack.White
+            UFT
+            Test Project
+            Katalan Studio
+        BDD library
+            Cucumber (Java, Ruby, JavaScript)
+            SpecFlow C#
+            pytest-bdd Python       
+        Automated Visual Testing
+            Applitools
+            recheck-web
+        Reporting libraries
+            TestProject OpenSDK
+            ExtentReports
+            Allure
+        Multi purpose Automation Framework
+            Robot Framework
+            Karate
+            Golem Automated Testing Framework
+            Gauge – ThoughtWorks
+            Serenity
+        RPA
+            UI Path
+    Productive Toolkit
+        UML
+            Plant UML
+        Project Management
+            MSOffice
+        Test Management
+            HP ALM
+            Testlink
+            Bugzilla
+            JIRA
+            MANTIS Bug Tracker
+        Browser Extensions
+            Dualless Monitor : : It splits your browser windows
+            Test & Feedback :Capture findings, create issues
+            Selenium Page Object Generator: Page Object Model generator
+            Clear Cache : 
+            Evernote Web Clipper: 
+        Web Applications
+        Mobile Applications
+        Desktop Applications
+        GitHub Repositories
+        Learning Resources
+        Smart Shortcuts 
+    Introduction to Testing in Emerging Technologies
+        Block Chain
+            BLOCKCHAIN
+            BITCOIN
+            ETHEREUM
+            SMART CONTRACTS
+            Testing Blockchain Applications
+        IoT
+            Edge Analytics: IoT and Data Science
+            Testing IoT Applications
+        BigData | Data science
+            Hadoop
+            Apache Spark
+            Power BI
+        AI|ML
+            Testing ML Applications
+            Scientific Computing with Python
+            Data Analysis with Python 
+                NumPy, Panda, Matplotlib, Seaborn
+            Machine Learning with Python 
+                Tensorflow
+        Augmented Reality and Virtual Reality
+    Cloud Computing
+        AWS        
+        Azure
+    Database Testing
+        SQL
+        SQL Server
+        MongoDB 
+    API, Web Services & Micro services
+        REST
+        SOAP
+        Postman
+        JSON
+        Contract
+        SOAPUI
+    Mobile Testing
+        Appium
+    Performance Testing 
+        Jmeter
+        Gatling
+        Locust
+    CFR Testing
+    Usability Testing 
+    Accessibility Testing 
+        Localization and Internationalization
+    Visual Testing        
+    Network & Security 
+        Computers Basics
+        Coding
+            Python
+            Javascript
+        Network Fundamentals
+            DNS, OSI Model, HTTP, HTTPS, FTP, SSL, TLS
+        Command line   
+        Web Fundamentals
+        Penetration testing
+        Network Penetration Testing
+        Web Application Pen Testing
+        Accessibility, XSS, CSRF, CORS, CSP
+        Wireless Pen Testing
+        Cloud Penetration Testing
+        Mobile Application Penetration
+        Physical Pen Testing 
+        API Penetration Test
+        SSL / TLS / HTTPS
+        DDoS
+        SQL Injection     
+        Cross site scripting
+        Exploiting authentication and session management Session Hijacking
+        Security scanners
+            NetSparker
+            OWASP Zed Attack Proxy (ZAP)
+            Burp Suite
+            Fiddler
+            Acunetix
+            Nikto2
+        Exploit databases and breach coverage
+        Cracking software
+        Hacking and penetration testing tools
+            Metasploit 
+            BeEF
+            Kali Linux
+            Backtrack-linux
+            Nmap
+            Wireshark
+        Vulnerability definitions
+        Security headers
+        Passwords
+        Account management
+        Personal security
+        Open Web Application Security Project (OWASP) 
+    Soft Skills | Public Speaking
+        Time Management
+        Decision Making
+        Problem solving
+        How to be creative
+        Communication
+    Domain Engineering & Industrial Automation 
+        AVEVA System Platform - SCADA, HMI
+        AVEVA PDMS - Plant 3D Design
+        AVEVA ERM - ERP
+        AVEVA NET Workhub & Dashboard -IMS 
+        Aras Innovator - PLM
+*************************************************************************************************
+SDET | C# .NET | Azure 
+*************************************************************************************************
+--------------------------------C#.NET---------------------------------------------------------
+    C# Fundamentals
+        https://www.udemy.com/course/csharp-tutorial-for-beginners/
+        https://www.udemy.com/course/csharp-intermediate-classes-interfaces-and-oop/
+        https://www.udemy.com/course/csharp-advanced/
+        http://illustratedcsharp.com/IllustratedCSharp.htm
+        https://www.productivecsharp.com/
+    Arrays and Collection
+    C# Language Integrated Query (LINQ)
+    BCL Working with Files and Streams
+        https://app.pluralsight.com/library/courses/working-files-streams-c-sharp
+    BCL ADO.NET 
+        https://app.pluralsight.com/library/courses/csharp-ado-dotnet-fundamentals
+    BCL HttpClient to Consume APIs
+        https://app.pluralsight.com/library/courses/dot-net-6-httpclient-using-accessing-apis
+    BCL Getting Started with JSON in C# Using Json.NET
+        https://app.pluralsight.com/library/courses/dot-net-6-json-working/
+    BCL Working with XML in C#
+        https://app.pluralsight.com/library/courses/dot-net-6-working-xml
+    BCL Building Secure Applications with Cryptography in .NET
+    BCL .NET Regular Expressions
+        https://app.pluralsight.com/library/courses/dot-net-regular-expressions
+    BCL Building Configurable Applications Using .NET 5 Generic Host
+    BCL Using Reflection in a C# Application
+    BCL .NET Diagnostics for Applications
+    BCL Globalization in C# 9 Applications
+    BCL Applying Asynchronous Programming in C# 8
+    BCL Building Multithreaded C# 8 Applications with the Task Parallel Library
+    Nunit
+    MsTest
+        https://www.udemy.com/course/unit-testing-csharp/
+    xUnit Test Patterns: Refactoring Test Code
+    Moq          
+    Design Patterns
+        https://app.pluralsight.com/library/courses/c-sharp-10-design-patterns
+    Data structure and Algorithm
+        https://app.pluralsight.com/library/courses/algorithms-data-structures-part-one
+        https://app.pluralsight.com/library/courses/algorithms-data-structures-part-two
+    ASP.NET Core
+    Entity Framework
+        https://www.udemy.com/course/entity-framework-tutorial/
+    Blazor 
+    ASP.NET Core Web API
+    Solid
+        https://app.pluralsight.com/library/courses/csharp-solid-principles
+    OOP
+        https://app.pluralsight.com/library/courses/c-sharp-10-object-oriented-programming
+    Xamrin
+    SQL Server
+        https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training
+        https://www.linkedin.com/learning/querying-microsoft-sql-server-2022
+    HTML / CSS/ JavaScript
+        https://www.theodinproject.com/paths/full-stack-javascript
+--------------------------------Automation Framework-------------------------------------------
+    RESTSharp
+        https://www.udemy.com/course/api-testing-with-restsharp-and-specflow-in-csharp/
+    Flurl
+    Selenium
+        Test automation University course: From Scripting to Framework with Selenium and C# by Carlos Kidman
+        https://www.udemy.com/course/selenium-with-c/
+    Appium
+        https://app.pluralsight.com/paths/skills/automating-ui-testing-with-appium
+    WinAppDriver
+        https://www.udemy.com/course/appium-winappdriver-automation-testing/
+    Test Project SDK
+    SpecFlow
+        https://www.youtube.com/watch?v=O5oHiBD5Lvk
+    Applitools
+    ExtentReports
+    Allure 
+--------------------------------Azure----------------------------------------------------------
+    Azure Blobs
+    Azure Queues
+    Azure Tables
+    Azure files
+    Azure VM
+    Cosmos DB
+    Azure Cognitive Services
+    Docker
+    Azure Fundamentals AZ-900
+        https://www.linkedin.com/learning/paths/prepare-for-the-azure-fundamentals-az-900-certification-by-microsoft-press
+    Microsoft Azure Training AZ-104
+        https://my.productivecsharp.com/courses/master-azure
+        https://www.linkedin.com/learning/paths/prepare-for-the-azure-administrator-az-104-certification-by-microsoft-press
+    Microsoft Azure Design and Architect Technologies AZ 305
+    Terraform
+    Docker
+        https://www.linkedin.com/learning/docker-essential-training/
+        https://app.pluralsight.com/library/courses/docker-dot-net-core-apps-developing
+    Kubernetes
+        https://www.linkedin.com/learning/kubernetes-essential-training-application-development/
+    Elasticsearch, Logstash & Kibana
+    Ansible
+    Azure Data Factory
+    Azure Security
+    Puppet
+    Jenkins
+    Azure Data Engineer
+    Azure DevOps [Azure Repos, Azure Artifacts, Azure Test Plans, Azure Pipelines, Azure Boards]
+    CI/CD using Azure DevOps
+        Test automation University course: Continuous Testing with Azure DevOps by Bushra Alam
+--------------------------------Additional Topics----------------------------------------------
+    Visual Studio Code     
+    Git and GitHub
+        Test automation University course: Source Control for Test Automation with Git by Simon Berner
+    PowerShell
+        https://www.linkedin.com/learning/powershell-7-essential-training/get-up-and-running-with-powershell-7
+    Python
+        https://www.udemy.com/course/automate/ 
+    SONARQUBE
+    Nagios
+    Postman
+        Test automation University course: Exploring Service APIs through Test Automation by Amber Race
+        Test automation University course: API Test Automation with Postman by Beth Marshall
+Self paced Learning Resources
+*************************************************************************************************
+
+    Books
+        Book Perfect Software And Other Illusions about Testing By Jerry Weinberg
+        Book Lessons learned in software testing By (Cem Kaner, James Bach, Bret Pettichord)
+        Book Testing Computer Software By Cem Kaner Jack Falk Hung Quoc Nguyen
+        Book Secrets of a Buccaneer-Scholar By James Bach
+        Book Introduction to General Systems Thinking, by Gerald M. Weinberg
+        Book Quality Software Management, Vol. 1: Systems Thinking, by Gerald M. Weinberg
+        Book Tacit and Explicit Knowledge, by Harry Collins
+        Book Agile Testing By (Lisa Crispin, Janet Gregory)
+        Book Agile Software Development, Principles, Patterns, and Practices (2002), by Robert "Uncle Bob" C. Martin
+        Book Explore It! By (Elisabeth Hendrickson)
+        Book Structure and Interpretation of Computer Programs by Hal Abelson, Gerald Jay Sussman Code Complete (2nd Edition) by Steve McConnell
+        Book The Pragmatic Programmer: From Journeyman to Master (1999), by Andrew Hunt and David Thomas
+        Book Cracking the Code Interview by Gayle McDowell
+        Book Refactoring: Improving the Design of Existing Code by Martin Fowler and Kent Beck
+        Book Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
+        Book Head_First_Design_Patterns
+        Book Design Patterns by the Gang of Four (one of the best books for program architecture)
+        Book Head_First_Object-Oriented_Analysis_and_Design
+        Book Data_Structures_and_Algorithms_in_Javatqw_darksiderg
+        Book Experiences of Test Automation by Dorothy Graham and Mark Fewster
+        Book | A Programmer's Guide to C# 5.0
+        Book .Net test automation recipes
+        Book The Art of Unit Testing
+        Book JavaForTesters
+        Book Head_First_Java,_2nd_Edition
+        Book Effective_Java,_2nd_Edition
+        Book SeleniumSimplified
+        Book Selenium Testing Tools Cook
+        Book SeleniumDesignPatternsAndBestPractices by Dima 
+        Book The Selenium Guidebook, by Dave Haeffner, author of the blog, Elemental Selenium
+        Book Advanced UFT 12 for Test Engineers Cookbook
+        book called Penetration Testing: a Hands-On Introduction to Hacking
+    Certification
+        Microsoft Certified:Azure Fundamentals(Az-900)
+        Microsoft Certified:Azure Developer Associate: Az-203
+        Microsoft Certified:Azure Administrator Associate Az-103
+        Microsoft Certified:Azure Solutions Architect Certification Exam(Az-300, Az-301)
+        AWS Technical Essentials
+        AWS Developer Associate
+        AWS SysOps Associate
+        AWS Solutions Architect
+        EC Council Certified Ethical Hacker
+        EC Council Licensed Penetration Tester
+        Offensive Security Certified Professional
+        Offensive Security Wireless Professional
+        Offensive Security Certified Expert
+        Offensive Security Exploitation Expert
+        Offensive Security Web Expert
+        Certified CompTIA Network+ 
+        CompTIA Network+ certification
+    YouTube
+        Web App Security: YouTube playlist Sunny Wear's Breaking Down Security Web App Sec Training #1
+        Python: https://www.youtube.com/watch?v=t8pPdKYpowI
+        Golang: https://www.youtube.com/watch?v=YS4e4q9oBaU
+        Networking: https://www.youtube.com/watch?v=IPvYjXCsTg8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=4
+        Bash Script: https://www.youtube.com/watch?v=e7BufAVwDiM
+        Bash Script: https://www.youtube.com/watch?v=2PGnYjbYuUo
+        VIM: https://www.youtube.com/watch?v=RZ4p-saaQkc
+        Devops basics: https://www.youtube.com/watch?v=Wvf0mBNGjXY&t=0s
+        Ccna: https://www.youtube.com/watch?v=rv3QK2UquxM&t=0s
+        Git: https://www.youtube.com/watch?v=apGV9Kg7ics
+        YAML: https://www.youtube.com/watch?v=IA90BTozdow
+        YAML: https://www.youtube.com/watch?v=GOk4IoYhM9U
+        Docker : https://www.youtube.com/watch?v=9zUHg7xjIqQ
+        Docker : https://www.youtube.com/watch?v=GwXLNAcHk-k
+        Docker : https://www.youtube.com/watch?v=KINjI1tlo2w
+        Docker : https://aurelievache.gumroad.com/l/understanding-docker-visual-way
+        Docker : https://iximiuz.com/en/categories/?category=Containers
+        CI & CD: https://www.youtube.com/watch?v=3a8KsB5wJDE
+        AWS: https://www.youtube.com/watch?v=SOTamWNgDKc&t=0s
+        Kubernetes: https://www.youtube.com/watch?v=X48VuDVv0do
+    Codefresh
+        CI & CD: https://codefresh.learnworlds.com
+    Edx.Org
+        Linux: https://www.edx.org/course/introduction-to-linux
+        Kubernetes: https://www.edx.org/course/introduction-to-kubernetes
+    OWASP
+        OWASP Password Storage Cheat Sheet
+        The OWASP Top 10 Web Application Security Risks
+        oWASP Top 10
+    Khan Academy
+         Blog How Computers Work
+    Cybrary
+        course free Advanced Penetration Testing course from Cybrary.
+    How Stuff Works
+        Blog How PCs Work
+    https://www.professormesser.com/
+        Professor Messer's CompTIA N10-007 Network+ Course
+    Linuxcommand.org
+        course learn the shell from Linuxcommand.org
+    https://developer.mozilla.org
+        Blog https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works
+    https://bbst.courses/]
+        Online Course BBST Foundation By Black Box Software Testing [https://bbst.courses/]
+        Online Course BBST Bug Advocacy By Black Box Software Testing [https://bbst.courses/]
+        Online Course BBST Test Design By Black Box Software Testing [https://bbst.courses/]
+        Online Course BBST Domain testing By Black Box Software Testing [https://bbst.courses/]
+        Online Course BBST Professional Software Testing Specialization By Black Box Software Testing [https://bbst.courses/]
+        Online Course BBST  Effective Bug Investigation & Reporting Specialization By Black Box Software Testing [https://bbst.courses/]
+        Online Course BBST Test Strategy & Design Specialization By Black Box Software Testing [https://bbst.courses/]
+    [https://rapid-software-testing.com/]
+        Online Course RST Explored by Rapid Software Testing 
+    TestingEducation.Org
+        – Testing Foundations
+        – Bug Advocacy
+        – Test Design
+        – Exploratory Testing
+    [https://angiejones.tech
+        Blog Article Object Oriented Programming[https://angiejones.tech/oop-test-automation/]
+    https://testobsessed.com/ 
+    https://kaner.com/
+    Ministry of Testing
+    https://www.huibschoots.nl/
+    http://katrinatester.blogspot.com/ 
+    https://automationstepbystep.com/ 
+    EuroSTAR Huddle 
+    Agile Testing Days
+    https://testingconferences.org
+    www.satisfice.com/blog
+    www.developsense.com
+    RST Online class
+    BBST class
+    www.weekendtesting.com
+    Let’s Test conference
+    CAST conference
+    JoeColantonio.com
+    Udacity
+        Software Testing 
+        How To Use Git and Github
+    Coursera
+        Software Security https://www.coursera.org/learn/software-security
+        Testing With Agile
+        Mastering The Software Engineering Interview
+        Reviews & Metrics for Software Improvements
+    Test Automation University
+        Test Automation University course API JavaScript Path
+    https://testwitharjun.com/ Blog 
+    Blog Execute Automation
+    Blog Automation in Testing, developed by Richard Bradshaw and Mark Winteringham
+    Org Test Automation Days (Utrecht, the Netherlands)
+    Odin Project
+        Blog How Does The Web Work from Project Odin 
+    Freecodecamp.org
+        freeCodeCamp course Scientific Computing with Python
+    MSDN Virtual Learning
+        Microsoft Learn Learning Path – Build great solutions with the Microsoft Azure Well-Architected Framework
+        Microsoft Learn Learning Path – Administer infrastructure resources in Azure
+        Microsoft Learn Learning Path – Architect storage infrastructure in Azure
+        Microsoft Learn Learning Path – Secure your cloud data
+    Hacker Rank
+    Elemental Selenium
+        How to work with Selenium Grid
+        How to use Safari
+        How to do load testing with JMeter and Selenium
+        How to test for broken images  
+    Github
+        automate-amazon :https://github.com/tjmaher/automate-amazon       
+        Automation Projects: http://www.tjmaher.com/p/programming-projects.html
+        TestStack.White : https://github.com/TestStack/White
+        https://github.com/DannyDainton/All-Things-Postman
+        https://github.com/keldavis/Java-Practice
+        https://github.com/jwasham/coding-interview-university
+    Org Plural sight
+        Building the Right Thing in .NET with TestStack
+        Automating UI Tests for WPF Applications
+        Test Automation with CodedUI
+        Automated Business Readable Web Tests with Selenium and SpecFlow
+        Automated Web Testing with Selenium
+        Creating an Automated Testing Framework With Selenium
+        Plural sight course  - Design Patterns in C# Path
+        Plural sight corse SOLID Principles of Object Oriented Design
+        Plural sight course Algorithms and Data Structures - Part 1 by Robert Horvick
+        Plural sight course Algorithms and Data Structures - Part 2 by Robert Horvick
+        Plural sight – Clean Architecture: Patterns, Practices, and Principles
+        Plural sight – Cloud Design Patterns for Azure: Design and Implementation
+        Plural sight – Cloud Design Patterns for Azure: Data Management and Performance
+        Plural sight course Introduction to Penetration testing Using Metasploit
+        Plural sight course Penetration Testing Life Cycle Explained
+        Plural sight course Penetration Testing : Setting the scope and rule of Engagement
+        Plural sight course Network Penetration Using Python and Kali Linux
+        Plural sight course Web application Penetration Testing Fundamentals
+        Plural sight course Wireless Penetration Testing
+        Plural sight path Ethical Hacking
+    ToolsQA
+        http://toolsqa.com/selenium-webdriver/c-sharp/pagefactory-in-c/
+    Don't code tired
+        http://dontcodetired.com/blog/how-to-become-a-penetration-tester
+        A Feature Based Approach to Organising Test Code in BDDfy and Other Testing Frameworks
+    Ultimate QA
+        Complete Selenium Webdriver with C# Course
+        Introduction to Sauce Labs and Browser Stack
+        Selenium Web driver User Interactions
+        Common Selenium Webdriver Errors and How to Fix Them
+        How to Work with iFrames using Selenium Webdriver
+    Automate The Planet
+        Compelling Sundays will have a collection of his favorite posts
+        A complete series on design patterns for test automation
+        A ton of articles on C# and Visual Studio
+        Deep coverage of Selenium Webdriver
+        Test automation with Jenkins
+        https://www.automatetheplanet.com/null-object-design-pattern/
+    Org Red Team
+        https://www.redteamsecure.com/blog/how-to-become-a-penetration-tester
+    Troyhunt
+        https://www.troyhunt.com/troys-ultimate-list-of-security-links/      
+    Follow Automation Gurus
+        Angie Jones		@techgirl1908
+        Alan Richardson		@eviltester
+        Paul Grizzaffi		@pgrizzaffi
+        Amber Race		@ambertests
+        Andrew Knight		@AutomationPanda
+        Jess Ingrassellino	@jess_ingrass
+        Richard Bradshaw	@FriendlyTester
+        Trish Khoo		@hogfish
+        Jason Arbon		@jarbon
+        Mark Winteringham	@2bittester
+        Joe Colantonio		@jcolantonio
+        Lisa Crispin		@lisacrispin
+        Nikolay Advolodkin	@Nikolay_A00
+        Corina Pip		@imalittletester
+        T.J. Maher		@tjmaher1
+        Melissa Tondi		@melissatondi
+*************************************************************************************************
+My Learning Tracker
+*************************************************************************************************
+    Week Ending 11/09/22 - 24/09/22 C#
+        udemy course :C# Basics for Beginners: Learn C# Fundamentals by Coding by Mosh Hamedani
+        udemy course :C# Advanced Topics: Prepare for Technical Interviews by Mosh Hamedani
+        udemy course :C# Intermediate: Classes, Interfaces and OOP by Mosh Hamedani
+    Week Ending 11/09/22 - 24/09/22 Selnium and C#
+        Test automation University course :Intro to Selenium WebDriver with .NET Core by Nikolay Advolodkin
+        Test automation University course :From Scripting to Framework with Selenium and C# by Carlos Kidman
+    Week Ending 04/09/22 - 10/09/22 Python
+        free code camp curriculumn: Scientific Computing with Python
+    Week Ending 04/09/22 - 10/09/22 API Testing and Postman
+        Test automation University course:Exploring Service APIs through Test Automation by Amber Race
+        Test automation University course:API Test Automation with Postman by Beth Marshall
+        
+    Week Ending 11/09/22 - 24/09/22 Unit Testing and NUnit
+        udemy course :Unit Testing for C# Developers by Mosh Hamedani
+        
+    Week Ending 11/09/22 - 24/09/22 Web Development and HTML, CSS, JavaScript
+        udemy course :The Complete Web Developer Course 2.0 by Rob Percival
+        
+    Week Ending 11/09/22 - 24/09/22 CI and AzureDevOps
+        Test automation University course :Continuous Testing with Azure DevOps by Bushra Alam
+        
+    Week Ending 11/09/22 - 24/09/22 Source Control and Git
+        Test automation University course :Source Control for Test Automation with Git by Simon Berner
