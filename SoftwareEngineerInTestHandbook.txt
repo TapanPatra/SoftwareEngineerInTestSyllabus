@@ -790,11 +790,14 @@ My Learning Tracker
         udemy course :C# Basics for Beginners: Learn C# Fundamentals by Coding by Mosh Hamedani
         udemy course :C# Advanced Topics: Prepare for Technical Interviews by Mosh Hamedani
         udemy course :C# Intermediate: Classes, Interfaces and OOP by Mosh Hamedani
+
     Week Ending 11/09/22 - 24/09/22 Selnium and C#
         Test automation University course :Intro to Selenium WebDriver with .NET Core by Nikolay Advolodkin
         Test automation University course :From Scripting to Framework with Selenium and C# by Carlos Kidman
+
     Week Ending 04/09/22 - 10/09/22 Python
         free code camp curriculumn: Scientific Computing with Python
+
     Week Ending 04/09/22 - 10/09/22 API Testing and Postman
         Test automation University course:Exploring Service APIs through Test Automation by Amber Race
         Test automation University course:API Test Automation with Postman by Beth Marshall
