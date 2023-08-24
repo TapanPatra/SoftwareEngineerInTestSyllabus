@@ -1,5 +1,5 @@
 *************************************************************************************************
-| Testing | Coding | Automation in Test | Security Testing | DevOps | AI
+| Testing | Coding [C# / PYTHON] | Automation | Security | DevOps | AI | Public Speaking 
 *************************************************************************************************
     Exploratory Testing
         Software Testing
@@ -36,56 +36,7 @@
             System Performance: Nmon, iostat,sar,vmstat
             Process Monitoring: ps,top,htop,atop,lsof
             terminal multiplexers: screen, tmux
-        Cloud Providers
-            AWS
-                Introduction to Cloud Computing & AWS
-                Elastic Compute and Storage Volumes 
-                Load Balancing, Autoscaling and DNS 
-                Virtual Private Cloud
-                Storage – Simple Storage Service (S)
-                Databases and In-Memory DataStores
-                Management and Application Services
-                Access Management and Monitoring Services
-                Automation and Configuration management
-                AWS Migration
-                Continuous Monitoring using Prometheus
-                Prometheus Security and Use Cases
-                Continuous Monitoring using Nagios
-                Log Server and alerting in Nagios
-                Software Lifecycle automation using AWS
-                Automating Infrastructure using CloudFormation
-                Application Deployment using Elastic Beanstalk
-                Application Deployment and Orchestration using ECS, 
-                ECR and EKS
-            Azure
-                Introduction to Microsoft Azure
-                Introduction to ARM & Azure Storage
-                Introduction to Azure storage
-                Azure Virtual Machines
-                Azure App and Container services
-                Azure Networking I
-                Azure Networking II
-                Authentication and Authorization in Azure using RBAC
-                Microsoft Azure Active Directory
-                Azure Monitoring
-                Infrastructure Setup
-                Introduction to DevOps
-                Continuous Testing
-                Continuous Integration using Jenkins
-                Software Version Control
-                Continuous Deployment: Containerization with Docker
-                Containerization with Docker: Ecosystem and Networking
-                Configuration Management using Puppet
-                Configuration Management using Ansible
-                Continuous Orchestration using Kubernetes
-                Continuous Monitoring using Nagios
-                Terraform Modules & Workspaces
-                Azure DevOps and Azure Repos
-                Azure Artifacts and Azure Test Plans
-                Azure Pipelines
-                Azure Boards
-                Terraform with Azure
-        DevOps
+        DevOps Tools
             DevOps Fundamentals & Infrastructure Setup
             Version control
                 GIT
@@ -146,6 +97,9 @@
             Unikernels: Structure, formats, allocation, networking in Unikernels
             Difference between VM, Containers and Unikernels
             Network Function Virtualization (NFV)
+        Cloud Providers
+            AWS
+            AZURE
         DevSecOps
             Securing SDLC and CI/CD Pipeline
             Software Component Analysis (SCA) in CI/CD Pipeline
@@ -198,7 +152,8 @@
             Design and implementation
             Management and monitoring 
     Learn to code
-        HTML & CSS 
+        HTML / CSS/ JavaScript
+            https://www.theodinproject.com/paths/full-stack-javascript
         JavaScript
             JavaScript
             React & Redux
@@ -212,6 +167,70 @@
             Python
             Djnago
         C#  
+            C# Fundamentals
+                https://www.udemy.com/course/csharp-tutorial-for-beginners/
+                https://www.udemy.com/course/csharp-intermediate-classes-interfaces-and-oop/
+                https://www.udemy.com/course/csharp-advanced/
+                http://illustratedcsharp.com/IllustratedCSharp.htm
+            .NET BCL 
+                C# Language Integrated Query (LINQ)
+                BCL Working with Files and Streams
+                    https://app.pluralsight.com/library/courses/working-files-streams-c-sharp
+                BCL ADO.NET 
+                    https://app.pluralsight.com/library/courses/csharp-ado-dotnet-fundamentals
+                BCL HttpClient to Consume APIs
+                    https://app.pluralsight.com/library/courses/dot-net-6-httpclient-using-accessing-apis
+                BCL Getting Started with JSON in C# Using Json.NET
+                    https://app.pluralsight.com/library/courses/dot-net-6-json-working/
+                BCL Working with XML in C#
+                    https://app.pluralsight.com/library/courses/dot-net-6-working-xml
+                BCL Building Secure Applications with Cryptography in .NET
+                BCL .NET Regular Expressions
+                    https://app.pluralsight.com/library/courses/dot-net-regular-expressions
+                BCL Building Configurable Applications Using .NET 5 Generic Host
+                BCL Using Reflection in a C# Application
+                BCL .NET Diagnostics for Applications
+                BCL Globalization in C# 9 Applications
+                BCL Applying Asynchronous Programming in C# 8
+                BCL Building Multithreaded C# 8 Applications with the Task Parallel Library
+            Unit Testing 
+                Nunit
+                MsTest
+                    https://www.udemy.com/course/unit-testing-csharp/
+                xUnit Test Patterns: Refactoring Test Code
+                Moq          
+            Design Patterns
+                Design Patterns
+                    https://app.pluralsight.com/library/courses/c-sharp-10-design-patterns
+                Solid
+                    https://app.pluralsight.com/library/courses/csharp-solid-principles
+                OOP
+                    https://app.pluralsight.com/library/courses/c-sharp-10-object-oriented-programming
+            Data structure & Algorithm
+                [Arrays| Strings| ArrayList| Linked List | Map | Stack | queue | recursion | heap ]
+                [Brute-force technique |Two pointer | Sliding window | Binary search]
+                https://app.pluralsight.com/library/courses/algorithms-data-structures-part-one
+                https://app.pluralsight.com/library/courses/algorithms-data-structures-part-two
+            .NET Core
+                ASP.NET Core
+                Entity Framework
+                    https://www.udemy.com/course/entity-framework-tutorial/
+                Blazor 
+                ASP.NET Core Web API
+                Xamrin
+             RESTSharp
+                https://www.udemy.com/course/api-testing-with-restsharp-and-specflow-in-csharp/
+            Selenium
+                Test automation University course: From Scripting to Framework with Selenium and C# by Carlos Kidman
+                https://www.udemy.com/course/selenium-with-c/
+            Appium
+                https://app.pluralsight.com/paths/skills/automating-ui-testing-with-appium
+            WinAppDriver
+                https://www.udemy.com/course/appium-winappdriver-automation-testing/
+            SpecFlow
+                https://www.youtube.com/watch?v=O5oHiBD5Lvk
+            Applitools
+            ExtentReports
     Software Development Basics | Computer Science 
         Computer science
             HTTP
@@ -336,7 +355,7 @@
         GitHub Repositories
         Learning Resources
         Smart Shortcuts 
-    Introduction to Testing in Emerging Technologies
+    Introduction to Testing in Emerging Technologies | AI
         Block Chain
             BLOCKCHAIN
             BITCOIN
@@ -359,30 +378,103 @@
                 Tensorflow
         Augmented Reality and Virtual Reality
     Cloud Computing
-        AWS        
-        Azure
+        Cloud Providers
+            AWS
+                Introduction to Cloud Computing & AWS
+                Elastic Compute and Storage Volumes 
+                Load Balancing, Autoscaling and DNS 
+                Virtual Private Cloud
+                Storage – Simple Storage Service (S)
+                Databases and In-Memory DataStores
+                Management and Application Services
+                Access Management and Monitoring Services
+                Automation and Configuration management
+                AWS Migration
+                Continuous Monitoring using Prometheus
+                Prometheus Security and Use Cases
+                Continuous Monitoring using Nagios
+                Log Server and alerting in Nagios
+                Software Lifecycle automation using AWS
+                Automating Infrastructure using CloudFormation
+                Application Deployment using Elastic Beanstalk
+                Application Deployment and Orchestration using ECS, 
+                ECR and EKS
+            Azure
+                Azure Fundamentals AZ-900
+                    https://www.linkedin.com/learning/paths/prepare-for-the-azure-fundamentals-az-900-certification-by-microsoft-press
+                Microsoft Azure Training AZ-104 
+                    https://www.linkedin.com/learning/paths/prepare-for-the-azure-administrator-az-104-certification-by-microsoft-press
+                Microsoft Azure Training AZ-204 [Azure Blobs, Azure Queues, Azure Tables, Azure files, Azure VM, Cosmos DB, Azure Cognitive Services]
+                     https://my.productivecsharp.com/courses/master-azure
+                Microsoft Azure Design and Architect Technologies AZ 305
+                Azure DevOps [Azure Repos, Azure Artifacts, Azure Test Plans, Azure Pipelines, Azure Boards]
+                Terraform
+                Docker
+                    https://www.linkedin.com/learning/docker-essential-training/
+                    https://app.pluralsight.com/library/courses/docker-dot-net-core-apps-developing
+                Kubernetes
+                    https://www.linkedin.com/learning/kubernetes-essential-training-application-development/    
+                CI/CD using Azure DevOps
+                    Test automation University course: Continuous Testing with Azure DevOps by Bushra Alam
+                Visual Studio Code     
+                Git and GitHub
+                    Test automation University course: Source Control for Test Automation with Git by Simon Berner
+                PowerShell
+                    https://www.linkedin.com/learning/powershell-7-essential-training/get-up-and-running-with-powershell-7
+                Introduction to Microsoft Azure
+                Introduction to ARM & Azure Storage
+                Introduction to Azure storage
+                Azure Virtual Machines
+                Azure App and Container services
+                Azure Networking I
+                Azure Networking II
+                Authentication and Authorization in Azure using RBAC
+                Microsoft Azure Active Directory
+                Azure Monitoring
+                Infrastructure Setup
+                Introduction to DevOps
+                Continuous Testing
+                Continuous Integration using Jenkins
+                Software Version Control
+                Continuous Deployment: Containerization with Docker
+                Containerization with Docker: Ecosystem and Networking
+                Configuration Management using Puppet
+                Configuration Management using Ansible
+                Continuous Orchestration using Kubernetes
+                Continuous Monitoring using Nagios
+                Terraform Modules & Workspaces
+                Azure DevOps and Azure Repos
+                Azure Artifacts and Azure Test Plans
+                Azure Pipelines
+                Azure Boards
+                Terraform with Azure      
     Database Testing
         SQL
         SQL Server
+            https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training
+            https://www.linkedin.com/learning/querying-microsoft-sql-server-2022
         MongoDB 
     API, Web Services & Micro services
         REST
         SOAP
         Postman
+            Test automation University course: Exploring Service APIs through Test Automation by Amber Race
+            Test automation University course: API Test Automation with Postman by Beth Marshall
         JSON
         Contract
         SOAPUI
-    Mobile Testing
-        Appium
-    Performance Testing 
-        Jmeter
-        Gatling
-        Locust
-    CFR Testing
-    Usability Testing 
-    Accessibility Testing 
-        Localization and Internationalization
-    Visual Testing        
+    NFR Testing
+        Mobile Testing
+            Appium
+        Performance Testing 
+            Jmeter
+            Gatling
+            Locust
+        CFR Testing
+        Usability Testing 
+        Accessibility Testing 
+            Localization and Internationalization
+        Visual Testing        
     Network & Security 
         Computers Basics
         Coding
@@ -428,138 +520,22 @@
         Account management
         Personal security
         Open Web Application Security Project (OWASP) 
-    Soft Skills | Public Speaking
+    Soft Skills | Public Speaking | Leadership Skills
         Time Management
         Decision Making
         Problem solving
         How to be creative
         Communication
     Domain Engineering & Industrial Automation 
+        RTU, PLC
         AVEVA System Platform - SCADA, HMI
         AVEVA PDMS - Plant 3D Design
         AVEVA ERM - ERP
         AVEVA NET Workhub & Dashboard -IMS 
         Aras Innovator - PLM
-*************************************************************************************************
-SDET | C# .NET | Azure 
-*************************************************************************************************
---------------------------------C#.NET---------------------------------------------------------
-    C# Fundamentals
-        https://www.udemy.com/course/csharp-tutorial-for-beginners/
-        https://www.udemy.com/course/csharp-intermediate-classes-interfaces-and-oop/
-        https://www.udemy.com/course/csharp-advanced/
-        http://illustratedcsharp.com/IllustratedCSharp.htm
-        https://www.productivecsharp.com/
-    Arrays and Collection
-    C# Language Integrated Query (LINQ)
-    BCL Working with Files and Streams
-        https://app.pluralsight.com/library/courses/working-files-streams-c-sharp
-    BCL ADO.NET 
-        https://app.pluralsight.com/library/courses/csharp-ado-dotnet-fundamentals
-    BCL HttpClient to Consume APIs
-        https://app.pluralsight.com/library/courses/dot-net-6-httpclient-using-accessing-apis
-    BCL Getting Started with JSON in C# Using Json.NET
-        https://app.pluralsight.com/library/courses/dot-net-6-json-working/
-    BCL Working with XML in C#
-        https://app.pluralsight.com/library/courses/dot-net-6-working-xml
-    BCL Building Secure Applications with Cryptography in .NET
-    BCL .NET Regular Expressions
-        https://app.pluralsight.com/library/courses/dot-net-regular-expressions
-    BCL Building Configurable Applications Using .NET 5 Generic Host
-    BCL Using Reflection in a C# Application
-    BCL .NET Diagnostics for Applications
-    BCL Globalization in C# 9 Applications
-    BCL Applying Asynchronous Programming in C# 8
-    BCL Building Multithreaded C# 8 Applications with the Task Parallel Library
-    Nunit
-    MsTest
-        https://www.udemy.com/course/unit-testing-csharp/
-    xUnit Test Patterns: Refactoring Test Code
-    Moq          
-    Design Patterns
-        https://app.pluralsight.com/library/courses/c-sharp-10-design-patterns
-    Data structure and Algorithm
-        https://app.pluralsight.com/library/courses/algorithms-data-structures-part-one
-        https://app.pluralsight.com/library/courses/algorithms-data-structures-part-two
-    ASP.NET Core
-    Entity Framework
-        https://www.udemy.com/course/entity-framework-tutorial/
-    Blazor 
-    ASP.NET Core Web API
-    Solid
-        https://app.pluralsight.com/library/courses/csharp-solid-principles
-    OOP
-        https://app.pluralsight.com/library/courses/c-sharp-10-object-oriented-programming
-    Xamrin
-    SQL Server
-        https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training
-        https://www.linkedin.com/learning/querying-microsoft-sql-server-2022
-    HTML / CSS/ JavaScript
-        https://www.theodinproject.com/paths/full-stack-javascript
---------------------------------Automation Framework-------------------------------------------
-    RESTSharp
-        https://www.udemy.com/course/api-testing-with-restsharp-and-specflow-in-csharp/
-    Flurl
-    Selenium
-        Test automation University course: From Scripting to Framework with Selenium and C# by Carlos Kidman
-        https://www.udemy.com/course/selenium-with-c/
-    Appium
-        https://app.pluralsight.com/paths/skills/automating-ui-testing-with-appium
-    WinAppDriver
-        https://www.udemy.com/course/appium-winappdriver-automation-testing/
-    Test Project SDK
-    SpecFlow
-        https://www.youtube.com/watch?v=O5oHiBD5Lvk
-    Applitools
-    ExtentReports
-    Allure 
---------------------------------Azure----------------------------------------------------------
-    Azure Blobs
-    Azure Queues
-    Azure Tables
-    Azure files
-    Azure VM
-    Cosmos DB
-    Azure Cognitive Services
-    Docker
-    Azure Fundamentals AZ-900
-        https://www.linkedin.com/learning/paths/prepare-for-the-azure-fundamentals-az-900-certification-by-microsoft-press
-    Microsoft Azure Training AZ-104
-        https://my.productivecsharp.com/courses/master-azure
-        https://www.linkedin.com/learning/paths/prepare-for-the-azure-administrator-az-104-certification-by-microsoft-press
-    Microsoft Azure Design and Architect Technologies AZ 305
-    Terraform
-    Docker
-        https://www.linkedin.com/learning/docker-essential-training/
-        https://app.pluralsight.com/library/courses/docker-dot-net-core-apps-developing
-    Kubernetes
-        https://www.linkedin.com/learning/kubernetes-essential-training-application-development/
-    Elasticsearch, Logstash & Kibana
-    Ansible
-    Azure Data Factory
-    Azure Security
-    Puppet
-    Jenkins
-    Azure Data Engineer
-    Azure DevOps [Azure Repos, Azure Artifacts, Azure Test Plans, Azure Pipelines, Azure Boards]
-    CI/CD using Azure DevOps
-        Test automation University course: Continuous Testing with Azure DevOps by Bushra Alam
---------------------------------Additional Topics----------------------------------------------
-    Visual Studio Code     
-    Git and GitHub
-        Test automation University course: Source Control for Test Automation with Git by Simon Berner
-    PowerShell
-        https://www.linkedin.com/learning/powershell-7-essential-training/get-up-and-running-with-powershell-7
-    Python
-        https://www.udemy.com/course/automate/ 
-    SONARQUBE
-    Nagios
-    Postman
-        Test automation University course: Exploring Service APIs through Test Automation by Amber Race
-        Test automation University course: API Test Automation with Postman by Beth Marshall
+    
 Self paced Learning Resources
 *************************************************************************************************
-
     Books
         Book Perfect Software And Other Illusions about Testing By Jerry Weinberg
         Book Lessons learned in software testing By (Cem Kaner, James Bach, Bret Pettichord)
@@ -786,30 +762,16 @@ Self paced Learning Resources
 *************************************************************************************************
 My Learning Tracker
 *************************************************************************************************
-    Week Ending 11/09/22 - 24/09/22 C#
+    Week Ending 12th Aug - 18th Aug 2023 C#
         udemy course :C# Basics for Beginners: Learn C# Fundamentals by Coding by Mosh Hamedani
         udemy course :C# Advanced Topics: Prepare for Technical Interviews by Mosh Hamedani
         udemy course :C# Intermediate: Classes, Interfaces and OOP by Mosh Hamedani
-
-    Week Ending 11/09/22 - 24/09/22 Selnium and C#
+    Week Ending 12th Aug - 18th Aug 2023 Selnium and C#
+        https://www.udemy.com/course/selenium-with-c/
         Test automation University course :Intro to Selenium WebDriver with .NET Core by Nikolay Advolodkin
         Test automation University course :From Scripting to Framework with Selenium and C# by Carlos Kidman
-
-    Week Ending 04/09/22 - 10/09/22 Python
-        free code camp curriculumn: Scientific Computing with Python
-
-    Week Ending 04/09/22 - 10/09/22 API Testing and Postman
+    Week Ending 12th Aug - 18th Aug 2023 API Testing and Postman
         Test automation University course:Exploring Service APIs through Test Automation by Amber Race
         Test automation University course:API Test Automation with Postman by Beth Marshall
         
-    Week Ending 11/09/22 - 24/09/22 Unit Testing and NUnit
-        udemy course :Unit Testing for C# Developers by Mosh Hamedani
         
-    Week Ending 11/09/22 - 24/09/22 Web Development and HTML, CSS, JavaScript
-        udemy course :The Complete Web Developer Course 2.0 by Rob Percival
-        
-    Week Ending 11/09/22 - 24/09/22 CI and AzureDevOps
-        Test automation University course :Continuous Testing with Azure DevOps by Bushra Alam
-        
-    Week Ending 11/09/22 - 24/09/22 Source Control and Git
-        Test automation University course :Source Control for Test Automation with Git by Simon Berner
