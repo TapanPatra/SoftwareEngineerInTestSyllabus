@@ -1,8 +1,8 @@
-*************************************************************************************************
+#*************************************************************************************************
 | Testing | Coding [C# / PYTHON] | Automation | Security | DevOps | AI | Public Speaking 
 *************************************************************************************************
-    Exploratory Testing
-        Software Testing
+    #Exploratory Testing
+        ##Software Testing
         Rapid software Testing
         Pair testing
         Agile Testing
